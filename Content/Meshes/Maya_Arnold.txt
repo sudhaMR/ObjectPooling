@@ -1,0 +1,8 @@
+You can import a model in Maya with customized materials for Arnold.
+
+1. Unzip all files from the archive PB170_Sneaker_Sm.zip into one folder.
+(Note that PB170_Sneaker_Sm.obj file and PB170_Sneaker_Sm_Arnold.ma must be in the same folder.)
+2. Make sure currently selected render is Arnold.
+3. Import PB170_Sneaker_Sm_Arnold.ma into your project.
+
+(If you import the model into the project for the first time, it will not be inserted into the scene, import the model a second time so that it is inserted into the scene)
